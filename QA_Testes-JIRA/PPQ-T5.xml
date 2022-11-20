@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>PPQ</projectKey>
+    <exportDate>2022-11-20 14:37:13 UTC</exportDate>
+    <folders>
+        <folder fullPath="Cadastro" index="1"/>
+    </folders>
+    <testCases>
+        <testCase id="66987318" key="PPQ-T5">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Caroline S.</createdBy>
+            <createdOn>2022-11-17 23:55:15 UTC</createdOn>
+            <customFields/>
+            <folder><![CDATA[Cadastro]]></folder>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Funcionalidade de Cadastro de Colaborador]]></name>
+            <objective><![CDATA[&nbsp;pelo Usu&aacute;rio Administrador]]></objective>
+            <owner>636ef919db77c018ecd292b0</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Approved]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[Acessar tela de Gerenciar Colaboradores]]></description>
+                        <expectedResult><![CDATA[Usu&aacute;rio deve visualizar a interface de gerenciamento de colaboradores]]></expectedResult>
+                    </step>
+                    <step index="1">
+                        <customFields/>
+                        <description><![CDATA[Acessa tela de Cadastrar Colaborador ]]></description>
+                        <expectedResult><![CDATA[Usu&aacute;rio deve visualizar o formul&aacute;rio de cadastro de funcion&aacute;rios]]></expectedResult>
+                    </step>
+                    <step index="2">
+                        <customFields/>
+                        <description><![CDATA[Adiciona as informa&ccedil;&otilde;es ]]></description>
+                        <expectedResult><![CDATA[Usu&aacute;rio deve poder adicionar as informa&ccedil;&otilde;es do funcion&aacute;rio no formul&aacute;rio]]></expectedResult>
+                    </step>
+                    <step index="3">
+                        <customFields/>
+                        <description><![CDATA[Clicar em &ldquo;Cadastrar&rdquo; ]]></description>
+                        <expectedResult><![CDATA[Confirma o Cadastro de um novo Funcion&aacute;rio]]></expectedResult>
+                    </step>
+                    <step index="4">
+                        <customFields/>
+                        <description><![CDATA[Um novo funcion&aacute;rio &eacute; adicionado ao Sistema]]></description>
+                        <expectedResult><![CDATA[Usu&aacute;rio deve poder visualizar o funcion&aacute;rio que acabou de cadastrar, na sua tabela de colaboradores]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>

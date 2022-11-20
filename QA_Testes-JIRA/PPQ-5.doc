@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PPQ-5] Como o usuário administrador Cadastra um Novo Colaborador no sitema</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://qa-bootcamp-caroline.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PPQ-5]&nbsp;<a href="https://qa-bootcamp-caroline.atlassian.net/browse/PPQ-5">Como o usuário administrador Cadastra um Novo Colaborador no sitema</a>
+            <span class="subText">
+               Criado: 17/nov/22                   &nbsp;Atualizado(a): 20/nov/22
+
+                                                    &nbsp;Resolvido: 20/nov/22
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Conclusão</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://qa-bootcamp-caroline.atlassian.net/secure/BrowseProject.jspa?id=10001">Primeiro-Projeto-QA</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="636ef919db77c018ecd292b0"
+                id="word_reporter_636ef919db77c018ecd292b0"
+                href="https://qa-bootcamp-caroline.atlassian.net/secure/ViewProfile.jspa?accountId=636ef919db77c018ecd292b0">
+                    Caroline S.
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="636ef919db77c018ecd292b0"
+                id="word_assignee_636ef919db77c018ecd292b0"
+                href="https://qa-bootcamp-caroline.atlassian.net/secure/ViewProfile.jspa?accountId=636ef919db77c018ecd292b0">
+                    Caroline S.
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Itens concluídos
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10004-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Anexos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://qa-bootcamp-caroline.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    caddastrk.png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://qa-bootcamp-caroline.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo PNG">
+                    gerenciar.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10004-value" class="value" bgcolor="#ffffff" width="80%">      0|i0001j:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10004-value" class="value" bgcolor="#ffffff" width="80%">Sprint 1</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>1 Valor:</b> Autenticação de usuários no módulo do sistema para os colaboradores poderem ter acesso ao seu login, seja administrativo ou apenas como usuário colaborador. Essa funcionalidade visa ter dois tipos de login, um para o administrador com funcionalidades a mais, de alteração e exclusão, enquanto o login do colaborador tem limitações e vem apenas com opções de visualizar relatórios e dados profissionais</p>
+
+<p><b>Narrativa do usuário:</b></p>
+
+<p><b>Como:</b> Administrador </p>
+
+<p><b>Eu quero:</b> Acessar Página de Gerenciar Colaboradores</p>
+
+<p><b>Para:</b> Visualizar opções de adicionar, visualizar, remover, ou alterar dados</p>
+
+
+
+
+
+<p><b>Requisitos:</b></p>
+
+<p>Atores: Administrador o</p>
+
+<p>Interfaces: Ver documento em anexo da UI/UX</p>
+
+<p><b>Dados:</b></p>
+
+<p>a) Criação de bando de dados/tabelas para armazenamento de informações de usuários</p>
+
+<p>b) Criação da API para integração com front-end e banco</p>
+
+<p>c) Criação da tela de gerenciar colaboradores </p>
+
+<p><b>Plataforma/Ambiente</b></p>
+
+<p>a) Web/ Web Mobile</p>
+
+<p>b) Configuração de ambientes e pipelines para desenvolvimento, homologação de usuário, QA e produção</p>
+
+<p><b>Critérios de Aceite</b></p>
+
+<p>a) Usuário visualiza formulário, insere as informações do funcionário</p>
+
+<p>b) Usuário deverá visualizar o botão para adicionar, visualizar, remover ou alterar dados do usuário</p>
+
+
+
+<p><b>1 Cenário:</b> Administrador deseja Cadastrar Funcionário</p>
+
+<p>Acessa tela de Adicionar Colaborador</p>
+
+<p>Adiciona as informações</p>
+
+<p>Quando clicar em “Cadastrar”</p>
+
+<p>Um novo funcionário é inserido no sistema/tabela</p>
+
+
+
+<p><b>1 Cenário:</b> Administrador deseja visualizar o perfil de um funcionário</p>
+
+<p>Acessa tela de Gerenciar Colaboradores</p>
+
+<p>Clica em “perfil” no ícone de visualização</p>
+
+<p>Acessa o perfil do colaborador</p>
+
+
+
+<p><b>3 Cenário:</b> Administrador deseja Alterar Dados do Funcionário</p>
+
+<p>Acessa tela de Gerenciar Colaboradores</p>
+
+<p>Clica em “alterar” no ícone de alteração</p>
+
+<p>Altera as informações</p>
+
+<p>Quando clicar em “Salvar”</p>
+
+<p>As informações são alteradas na tabela e no sistema</p>
+
+
+
+<p><b>4 Cenário:</b> Administrador deseja Remover um Funcionário do sistema</p>
+
+<p>Acessa tela de Gerenciar Colaboradores</p>
+
+<p>Altera as informações</p>
+
+<p>Quando clicar em “Salvar”</p>
+
+<p>As informações são alteradas na tabela e no sistema</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sun Nov 20 14:38:31 UTC 2022 por Caroline S. usando JIRA 1001.0.0-SNAPSHOT#100210-sha1:9b34d7cc56ccedf37042f403595483f2079121f4.
+
+</body>
+</html>
