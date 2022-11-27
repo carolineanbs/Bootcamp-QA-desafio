@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex10ArrayMulti",
+            "request": "launch",
+            "mainClass": "Ex10ArrayMulti",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex6Fatorial",
+            "request": "launch",
+            "mainClass": "Ex6Fatorial",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex5Tabuada",
+            "request": "launch",
+            "mainClass": "Ex5Tabuada",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex4ParImpar",
+            "request": "launch",
+            "mainClass": "Ex4ParImpar",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex3MaiorMedia",
+            "request": "launch",
+            "mainClass": "Ex3MaiorMedia",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex2Nota",
+            "request": "launch",
+            "mainClass": "Ex2Nota",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex1NomeIdade",
             "request": "launch",
             "mainClass": "Ex1NomeIdade",
