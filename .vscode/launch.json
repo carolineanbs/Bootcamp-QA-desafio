@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex10ArrayMulti",
             "request": "launch",
             "mainClass": "Ex10ArrayMulti",
