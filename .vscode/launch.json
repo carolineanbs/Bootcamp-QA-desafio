@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex1NomeIdade",
+            "request": "launch",
+            "mainClass": "Ex1NomeIdade",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch NomeIdade",
+            "request": "launch",
+            "mainClass": "NomeIdade",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -16,8 +44,6 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "projectName": "Bootcamp-QA-desafio_1d3c81a8"
-        
-    
         },
         {
             "type": "java",
