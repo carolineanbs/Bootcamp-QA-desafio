@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex1MediaIdade",
+            "request": "launch",
+            "mainClass": "Ex1MediaIdade",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Main",
