@@ -8,7 +8,7 @@ public class RodarAplicacao {
         Funcionario vendedor = new Vendedor();
         Funcionario faxineiro = new Faxineiro();
 
-        //Gerente gerente_ = new Funcionario();
+        Gerente gerente_ = (Gerente) new Funcionario();
         Vendedor vendedor_ = (Vendedor) new Funcionario();
 
     }
