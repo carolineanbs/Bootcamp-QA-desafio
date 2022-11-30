@@ -1,0 +1,91 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioProposto03",
+            "request": "launch",
+            "mainClass": "ExMap.ExercicioProposto03",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploMap",
+            "request": "launch",
+            "mainClass": "ExemploMap",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploOrdenacaoMap",
+            "request": "launch",
+            "mainClass": "ExemploOrdenacaoMap",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioProposto01",
+            "request": "launch",
+            "mainClass": "ExercicioProposto01",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioProposto02",
+            "request": "launch",
+            "mainClass": "ExercicioProposto02",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExComparatorMapObjetoObjeto",
+            "request": "launch",
+            "mainClass": "KnowMore.ExComparatorMapObjetoObjeto",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExComparatorMapObjetoSet",
+            "request": "launch",
+            "mainClass": "KnowMore.ExComparatorMapObjetoSet",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExerciciosStreamAPI",
+            "request": "launch",
+            "mainClass": "Stream.ExerciciosStreamAPI",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch RefatoracaoOrdenacaoMap",
+            "request": "launch",
+            "mainClass": "Stream.RefatoracaoOrdenacaoMap",
+            "projectName": "Bootcamp-QA-desafio_1d3c81a8"
+        }
+    ]
+}
