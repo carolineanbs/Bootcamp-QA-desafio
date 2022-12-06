@@ -1,0 +1,48 @@
+.body {
+    background-color: black;
+    max-width: 900px;
+    margin: auto;
+    font-family: Georgia;
+    
+}
+
+.post {
+    background-color: darkgray;
+    padding: 15px;
+    border: 3px solid purple;
+    margin: 20px ;
+    border-radius: 5px;
+
+}
+
+.postcontent {
+    
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: 'Gill Sans';
+    text-align: justify;
+
+}
+
+.posttitle {
+    font-size:  16px;
+    font-style: bold;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+#title, #subtitle, #posttitle {
+    color: purple ;
+    
+}   
+
+.list_com {
+    list-style-type: square;
+    padding-left: 50px;
+    color: blueviolet;
+}
+
+.list_com, li, a {
+    text-decoration: none;
+    color: blueviolet;
+}
