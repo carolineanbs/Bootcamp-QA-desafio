@@ -7,11 +7,11 @@ public class Ex1MediaIdade {
 		int idade1, idade2, idade3, media;
 		
 		
-		System.out.println("Digite suas idades:");
-		System.out.print("Idade 1: "); idade1 = sc.nextInt(); 
-		System.out.print("Idade 2: "); idade2 = sc.nextInt();
-		System.out.print("Idade 3: "); idade3 = sc.nextInt();
-		System.out.println();
+	
+		idade1 = sc.nextInt(); 
+		idade2 = sc.nextInt();
+		idade3 = sc.nextInt();
+		
 		
 		media = (idade1 + idade2 + idade3)/3;
 		
