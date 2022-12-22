@@ -9,7 +9,6 @@ public class Ex5MenorMultiplo {
     Scanner scanner = new Scanner(System.in);
     int numero = scanner.nextInt();
 
-//TODO: Crie as outras condições necessárias para a resolução do desafio.
     int minimoMultiplo = 0;
     if (numero % 2 == 0) {
       minimoMultiplo = numero;

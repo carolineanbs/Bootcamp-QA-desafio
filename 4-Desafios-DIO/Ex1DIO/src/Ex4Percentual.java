@@ -8,8 +8,6 @@ public class Ex4Percentual{
 
 public static void main(String args[]) {
 
-
-
     Scanner input = new Scanner(System.in);
 		
     int M, S;
@@ -18,20 +16,11 @@ public static void main(String args[]) {
      M = input.nextInt();
      S = input.nextInt();
 
+    percentual = ( ((M - S) * 100 ) / M);
 
-   percentual = ( ((M - S) * 100 ) / M);
-    
-    
     System.out.println("O desconto foi de " + percentual + "%");
-    
-    
-    
-    
-    
-    input.close();
-    //TODO:  Retorne o percentual de desconto que foi aplicado no produto
       
-   
-  
+    input.close();
+ 
 }
 }
