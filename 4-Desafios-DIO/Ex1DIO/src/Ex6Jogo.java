@@ -13,7 +13,7 @@ public class Ex6Jogo {
          jogadaJogador = leitor.nextInt();  
          jogadaInimigo = leitor.nextInt();  
 
-         // 1 - Flecha -> Pedra
+        // 1 - Flecha -> Pedra
         // 2 - Escudo -> Papel
         // 3 - Espada -> Tesoura
 
